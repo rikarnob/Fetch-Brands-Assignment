@@ -28,21 +28,21 @@ Top 5 receipts scanned in latest month for which we have rewards Group data
 
 rewardsGroup
 
-•	ANNIE'S HOMEGROWN MULTI-SERVING MAC & CHEESE     
-•	DUNCAN HINES CAKE MIX 
-•	HEINZ GRAVY - JAR 
-•	SWISS MISS CAFÉ  
-•	SARGENTO NATURAL SHREDDED CHEESE 6OZ OR LARGER    
+* ANNIE'S HOMEGROWN MULTI-SERVING MAC & CHEESE
+* DUNCAN HINES CAKE MIX
+* HEINZ GRAVY - JAR
+* SWISS MISS CAFÉ
+* SARGENTO NATURAL SHREDDED CHEESE 6OZ OR LARGER    
 
 Top 5 receipts scanned in 2nd latest month for which we have rewards Group data
 
 rewardsGroup
 
-•	KNORR BOUILLON                
-•	DUNCAN HINES FROSTING 
-•	DIET PEPSI 12 OZ 24+ COUNT
-•	SIERRA MIST 12 OZ 12 PACK 
-•	DUNCAN HINES CAKE MIX   
+* KNORR BOUILLON
+* DUNCAN HINES FROSTING
+* DIET PEPSI 12 OZ 24+ COUNT
+* SIERRA MIST 12 OZ 12 PACK
+* DUNCAN HINES CAKE MIX   
 
 •	Between the finished/accepted and rejected receipts, finished receipts amount to $1244 and rejected receipts amount to roughly $20. 
  
