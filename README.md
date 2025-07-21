@@ -1,4 +1,4 @@
-# Fetch-Brands-Assignment
+# Email to stakeholders
 
 Hello product and business team,
 I'm sending an update on the take-home assignment, specifically my initial review of the user, brand, and receipt data. I've focused on understanding the data's structure and quality, which is crucial for building reliable analytics.
@@ -93,4 +93,5 @@ To create truly optimized data assets, beyond just fixing current issues, I'd be
 I believe addressing these points will enable us to build a robust and high-performing data asset. Let's schedule a time to discuss these questions and next steps.
 
 Best regards,
+
 Rik
