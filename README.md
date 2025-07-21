@@ -8,6 +8,10 @@ Python's flexibility made the JSON flattening and type conversions far more effi
 
 I'm comfortable with SQL too, but for this initial phase, Python was the path to quickly demonstrate understanding and provide initial results.
 
+I would also like to note that the `.ipynb` file contains my python codes and the email-to-stakeholders is my drafted email to the business and product teams.
+
+I've also updaloded the raw JSON files for reference.
+
 I'm excited about this opportunity and look forward to discussing my submission with you.
 
 Best regards,
