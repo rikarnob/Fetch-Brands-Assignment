@@ -7,18 +7,18 @@ I'm sending an update on the take-home assignment, specifically my initial revie
 •	Top Brand Performance: I've been able to identify the top 5 brands by receipts scanned. I took the liberty of slicing the data by “rewardsGroup” as well as “brandCode” - 
 
 Top 5 by receipts scanned by rewardsGroup
-•	OSCAR MAYER LUNCH MEAT
-•	SARGENTO RICOTTA CHEESE
-•	ANNIE'S HOMEGROWN MULTI-SERVING MAC & CHEESE     
-•	SARGENTO NATURAL SHREDDED CHEESE 6OZ OR LARGER   
-•	SARGENTO STRING OR STICK CHEESE 
+* OSCAR MAYER LUNCH MEAT
+* SARGENTO RICOTTA CHEESE
+* ANNIE'S HOMEGROWN MULTI-SERVING MAC & CHEESE
+* SARGENTO NATURAL SHREDDED CHEESE 6OZ OR LARGER
+* SARGENTO STRING OR STICK CHEESE 
 
 Top 5 receipt scanned by brandCode
-•	HY-VEE 
-•	BRAND ( 
-•	KRAFT 
-•	HIDDEN VALLEY    
-•	KNORR         
+* HY-VEE
+* BRAND (*my guess is this isn't a brand but either a generic placeholder or a mislabeling. either way, let me know how this should be handled**)
+* KRAFT
+* HIDDEN VALLEY
+* KNORR         
 
 
 •	Comparison of last few months of receipts scanned: the latest month and the second latest month only have Duncan Hines Cake mix in common. Aggregation here was a challenge since the latest month (Mar-21) had NULLs in the rewardsGroup column. As a workaround, I used the 2nd and 3rd latest month (labeled latest and 2nd latest for which we have data).
